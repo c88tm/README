@@ -132,35 +132,7 @@ Vimium
 
 ## Game
 
-平常很喜歡玩遊戲，目前有一台Surface Pro 4 一台ZF6 一台NS
-
-喜歡的遊戲類型是可以蓋東西的遊戲
-尤其是那種要蓋生產線的XDD （我需要一銅一鐵先做出這個再跟塑膠合成出這個...）
-像是:
-
-- Minecraft（管線+紅石愛好者）
-- Ingress（蓋cf)
-- Village and Castle（就，蓋村莊）
-- Factorio（蓋生產線）
-
-劇情向的遊戲也玩不少（吧），常常半夜三點弄哭自己（在幹嘛
-
-- OPUS
-- 箱中少女
-- FGO（明明是抽卡遊戲）
-- 火焰紋章（變成手游之後就沒有這麼喜歡了）
-- Sdorica 毒瘤
-
-Switch不常開，但是目前有這幾款
-
-- Astral chain
-- SMM2
-- 風花雪月
-- Zelda BOTW
-- Super Mario Odyssey
-- 伊布
-- 大亂鬥
-- NSO（超划算，一直更新舊遊戲，快買）
+太多了，所以移到[遊戲篇](https://github.com/c88tm/README/blob/master/game.md)來說
 
 ## 資工相關
 
