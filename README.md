@@ -33,6 +33,7 @@
 - [注意事項](#注意事項)
 - [出沒地](#出沒地)
   - [工作用](#工作用)
+  - [二次元蔥蔥](#二次元蔥蔥)
 - [Donation](#donation)
 - [Contact](#contact)
 
@@ -205,7 +206,7 @@ Vimium
 ### 討厭仇恨
 
 看完 [Smarter Every Day
-的演算法三部曲](https://www.youtube.com/watch?v=1PGm8LslEb4)後有的結論，可以先去看看。
+的演算法三部曲](https://www.youtube.com/watch?v=1PGm8LslEb4) 後有的結論，可以先去看看。
 主要是說，tribalism是人類的本性，擁有劃分你我並差別待遇的能力（愛有差等）
 這個特性可以被人為的操控，刻意的製造對立，虛弱一個群體。
 比如說，製造出一個人見人發財的韓國瑜，讓對民進黨絕望的人喜歡，讓比較理性的人討厭（蔣萬安說的不代表本台立場）
@@ -218,6 +219,7 @@ Vimium
 
 ## 注意事項
 
+- 講話有時候很白目，會直切主題，如果有任何不適都可以反映，我會根據個人需求做出修改，我只是有自己習慣的行為模式不代表我不能變通。
 - 這個人提到"妹妹"都是乾妹，他其實是獨生子不要被騙了
 - 這個人不是變態
 [不變態宣言](https://docs.google.com/document/d/1-gNROrTh2Q-rXlFXTSoccQy-y2fWVO2G_MM0gSzAtW8/edit)
@@ -231,17 +233,27 @@ Vimium
 
 ## 出沒地
 
-大致上分成兩類 一邊是工作用的，另一邊是自己平常在網路上的身分
+大致上分成兩類 一邊是工作用的，會偏向使用真名，另一邊則是二次元身分(?)，會偏向使用暱稱或是 id。
 
 ### 工作用
 
+- [Linkedin](https://www.linkedin.com/in/c88tm/)
 
+我不太清楚他到底可以幹嘛但是就先架起來看看
 
-[噗浪](https://www.plurk.com/c88tm)
+- [FB](https://www.facebook.com/c88tm.notification)
+
+對，FB是工作用的東西
+
+### 二次元蔥蔥
+
+- [噗浪](https://www.plurk.com/c88tm)
+
 廢文集散地，各種日常碎念跟思考都在這裡，有興趣可以來留個言跟我互動ㄍ
 
-[IG](https://www.instagram.com/c88tm/)
-更廢的那種廢，真的就是胡言亂語www
+- [IG](https://www.instagram.com/c88tm/)
+
+更廢的那種廢，沒有邏輯的隨便噴出想法的混沌之地。
 
 ## Donation
 
@@ -249,18 +261,17 @@ Vimium
 
 - 郵局帳號 (700) 0001236 0659022
 - 街口支付 [QRCode](https://imgur.com/kVHvwmr.png)
-- 歐配 [連結](https://payment.opay.tw/Broadcaster/Donate/D51A2CF3C9CA2B0FF842CE28164BAC96)
+- 歐配(有手續費) [連結](https://payment.opay.tw/Broadcaster/Donate/D51A2CF3C9CA2B0FF842CE28164BAC96)
 
 ## Contact
 
-- 物理上觸碰我
-不太建議，但是很有效
-- 物理上對我揮手
-我想你還是來觸碰我好了
-- between
-沒，被刪了
-- [FB messenger](https://www.messenger.com/t/c88tm.notification) @c88tm.notification 不常開
-- ~~[Line](https://line.me/ti/p/QLatqz0k7I) @c88tm~~ 莓在用
+各種連絡我的方式，按照我覺得舒適的程度排序
+
 - [Telegram](https://t.me/c88tm) @c88tm 五分鐘開一次（?）
 - [Email](mailto:c88tm159357@gmail.com) 每天都會收信，不一定馬上回
-- 另外如果意外的知道我號碼想打給我請確認我這邊有你號碼不然我很容易把電話掛掉
+- [FB messenger](https://www.messenger.com/t/c88tm.notification) @c88tm.notification 不常開
+- ~~[Line](https://line.me/ti/p/QLatqz0k7I) @c88tm~~ 莓在用
+- between 沒，被刪了
+- 物理上觸碰我，很有效，不過我不太喜歡
+- 物理上對我揮手...我想你還是來觸碰我好了
+- 如果意外的知道我號碼想打給我請確認我這邊有你號碼不然我很容易把電話掛掉
